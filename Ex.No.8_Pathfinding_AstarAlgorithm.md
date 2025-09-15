@@ -1,4 +1,4 @@
-<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/0c59d4e0-99d8-425c-bc87-ffdb26d8dd8d" /><img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/f3f12c15-323d-4d86-b633-2df214af4aa2" /># Ex.No: 8  Implementation of Path finding using A* algorithm
+### A* algorithm 
 ### DATE:15/09/25                                                                           
 ### REGISTER NUMBER :212223240022 
 ### AIM: 
@@ -138,9 +138,9 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
-<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/979c9a5c-da3c-4a0f-a9d5-1e76147c873d" />
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/5afbf13a-0ceb-4bef-a8e9-80145d041b6e" />
 
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/7dae5413-0a0e-4e14-b589-283bc8c2f789" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/7d171801-dceb-47e9-88a9-45f143521556" />
 
 
 ### Result:
